@@ -1,0 +1,58 @@
+report,lvi_label
+"Sentinel nodes negative.
+Neural involvement: None.
+Extensive necrosis present.
+Histologic type: Invasive lobular carcinoma, Grade I.
+Margins: Clear.
+lymphovascular invasion is absent",0
+"Sentinel lymph node: 1/3 positive.
+Margins involved by tumor.
+ER: Positive, PR: Positive, HER2: Negative.
+Perineural invasion: Absent.
+Diagnosis: Invasive ductal carcinoma, Grade II.
+There is lymphovascular invasion",1
+"Diagnosis: Invasive ductal carcinoma, Grade II.
+Margins: Clear.
+Extensive necrosis present.
+Margins involved by tumor.
+Histologic type: Invasive lobular carcinoma, Grade I.
+Sentinel lymph node: 1/3 positive.
+LVI: negative",0
+"Tumor size: 2.4 cm.
+Hormone receptors: ER +, PR -, HER2 3+.
+Perineural invasion: Absent.
+positive for LVI",1
+"ER: Positive, PR: Positive, HER2: Negative.
+Diagnosis: Invasive ductal carcinoma, Grade II.
+Neural involvement: None.
+ER/PR: Positive, HER2: Equivocal.
+lymphovascular invasion: not identified",0
+"Tumor size: 2.4 cm.
+Size: 1.8 cm, Grade III IDC.
+Histologic type: Invasive lobular carcinoma, Grade I.
+Neural involvement: None.
+Perineural invasion: Absent.
+no evidence of lymphovascular invasion",0
+"Sentinel lymph node: 1/3 positive.
+Diagnosis: Invasive ductal carcinoma, Grade II.
+Sentinel nodes negative.
+No necrosis observed.
+Perineural invasion: Absent.
+ER: Positive, PR: Positive, HER2: Negative.
+There is lymphovascular invasion",1
+"Diagnosis: Invasive ductal carcinoma, Grade II.
+Extensive necrosis present.
+Neural involvement: None.
+no LVI",0
+"Sentinel lymph node: 1/3 positive.
+Sentinel nodes negative.
+Receptors: ER positive, PR negative, HER2 negative.
+Margins: Clear.
+Hormone receptors: ER +, PR -, HER2 3+.
+Evidence of lymphovascular invasion",1
+"Tumor size: 2.4 cm.
+Size: 1.8 cm, Grade III IDC.
+Sentinel lymph node: 1/3 positive.
+Margins: Clear.
+Diagnosis: Invasive ductal carcinoma, Grade II.
+no evidence of lymphovascular invasion",0
